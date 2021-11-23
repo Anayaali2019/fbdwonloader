@@ -1,0 +1,26 @@
+{
+  "name": "fb-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  ,"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairuzmn/facebook-video-downloader-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairuzmn/facebook-video-downloader-js/issues"
+  },
+  "homepage": "https://github.com/fairuzmn/facebook-video-downloader-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^11.0.0",
+    "querystring": "^0.2.1"
+  }
+}
